@@ -1,0 +1,12 @@
+./node_modules
+*-lock.*
+backup
+*backup
+*.zip
+*.tar
+*.gz
+nbproject
+test
+*.map
+sass-cache
+node_modules
